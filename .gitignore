@@ -4,3 +4,12 @@
 *.opensdf
 *.sd
 *.cachefile
+*.db
+*.vsidx
+*.vsidx
+*.log
+*.pdb
+*.idb
+*.tlog
+*.ipch
+.vs/libcurl-api-scraper/v17/ipch/AutoPCH/9fb104719111dc03/LIBCURL-API-SCRAPER.ipch
