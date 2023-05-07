@@ -129,6 +129,22 @@
   <ItemGroup>
     <ClCompile Include="libcurl-api-scraper.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\curl.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\curlver.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\easy.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\header.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\mprintf.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\multi.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\options.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\stdcheaders.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\system.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\typecheck-gcc.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\urlapi.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\curl\websockets.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\zconf.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\src\vcpkg\installed\x64-windows\include\zlib.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

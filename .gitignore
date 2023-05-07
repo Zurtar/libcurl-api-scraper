@@ -13,3 +13,4 @@
 *.tlog
 *.ipch
 .vs/libcurl-api-scraper/v17/ipch/AutoPCH/9fb104719111dc03/LIBCURL-API-SCRAPER.ipch
+*.vsidx
